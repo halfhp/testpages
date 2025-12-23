@@ -3,6 +3,8 @@ VERSION:2.0
 PRODID:-//Sample Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:Simple Test Calendar
+X-WR-CALDESC:Test ICS feed for Google Calendar subscription
 
 BEGIN:VEVENT
 UID:event1@example.com
